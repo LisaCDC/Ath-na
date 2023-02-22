@@ -1,0 +1,53 @@
+html, body {
+  margin: 0;
+  padding: 0;
+background: linear-gradient(#00445b, #003d54);
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 50px;
+font-style: oblique;
+
+}
+.textathena{
+  font-size: 23px;
+  font-style: italic;
+  text-align: initial;
+  color: rgb(255, 255, 255);
+}
+.lolympe{
+  font-size: 23px;
+  font-style:italic;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.zeus{
+  font-size: 23px;
+  font-style: italic;
+  text-align: cener;
+  color: rgb(255, 255, 255);
+}
+.arbre{
+  font-size: 23px;
+  font-style: italic;
+  text-align: initial;
+  color: rgb(255, 255, 255);
+}
+.zeeus{
+  font-size: 23px;
+  font-style: italic;
+  text-align: initial;
+  color: rgb(255, 255, 255); 
+}
+.poseidon{
+  font-size: 23px;
+  font-style: italic;
+  text-align: initial;
+  color: rgb(255, 255, 255); 
+}
